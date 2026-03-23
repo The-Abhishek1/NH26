@@ -25,11 +25,11 @@ If you are new to Git and GitHub, follow these exact steps to submit your projec
 2. Click the green **"Code"** button and copy the URL.
 3. Open your computer's terminal (or command prompt) and run:
    ```bash
-   git clone <YOUR_COPIED_URL>
+   git clone https://github.com/Expert-Labs-IN/NH26
    ```
 4. Move into the project folder:
    ```bash
-   cd <repository-name>
+   cd NH26
    ```
 
 ### Step 3: Create Your Team's Folder
